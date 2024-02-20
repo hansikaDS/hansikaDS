@@ -3,11 +3,17 @@
 
 ---
 
+- 🎓 I'm currently an undergraduate at **SLIIT**
+
 - 🌱 I’m currently learning **AI/ML , AWS, Azure**
 
 - 📫 How to reach me **hansikasenanayaka07@gmail.com**
 
 - ---
+
+
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
