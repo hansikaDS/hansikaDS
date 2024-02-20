@@ -10,7 +10,10 @@
 - 📫 How to reach me **hansikasenanayaka07@gmail.com**
 
 - ---
+[![Hansika's GitHub Statistic](https://activity-graph.herokuapp.com/graph?username=hansikaDS&theme=tokyonight)](https://git.io/praveenscience)
 
+ ![Hansika's github statistic](https://github-readme-stats.vercel.app/api?username=hansikaDS&show_icons=true&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansikaDS&theme=tokyonight)  
  
 
 
